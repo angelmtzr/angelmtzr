@@ -1,9 +1,9 @@
 <h2> 💡 About Me </h2>
 
-<img width="55%" align="right" alt="Computer Science student" src="images/computer.jpg" />
+<img width="25%" align="right" alt="Computer Science student" src="./computer.jpg" />
 
 <p align="justify" >
-I'm a third-year engineering student interested in software development, process optimization and business. I like to work in teams, learn from others, and help others, because I know all of this will help me become a better person and professional.
+I'm a third-year engineering student interested in software development, process optimization and business. I like to work in teams, learn from others, and help others, because I am certain that all of this will help me become not only a better person but also a better professional. In practice, I specially like builidng projects oriented to practical applications and/or business purposes. Learning new things fascinates me: I believe it's a powerful way of discovering new tools to solve almost any kind of problem.
 </p>
 
 - 🖥 Favorite programming language: Python.
