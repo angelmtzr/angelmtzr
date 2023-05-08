@@ -7,5 +7,5 @@ I'm a third-year engineering student interested in software development, process
 </p>
 
 - 🖥 Favorite programming language: Python.
-- 💬 Languages I speak: Spanish, English, and French.
+- 💬 Languages: Spanish, English, and French.
 - 🎻 Fun fact: I have played the violin since I was 7.
