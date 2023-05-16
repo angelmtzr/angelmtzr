@@ -15,10 +15,10 @@ I'm a Computer Science student interested in software development, process optim
 
 ## 📊 My GitHub Stats
 <section>
-  <img src="https://github-readme-stats-1-alpha.vercel.app/api?username=angelmtzr&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="left" alt="Angel's GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats-1-alpha.vercel.app/api?username=angelmtzr&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="left" alt="Angel's GitHub Stats" height="180px" />
 </section>
 
 <section>
-  <img src="https://github-readme-stats-1-alpha.vercel.app/api/top-langs/?username=angelmtzr&layout=compact&theme=dracula&hide=shaderlab,glsl,hlsl,jupyter%20notebook&hide_border=true" align="left" alt="Angel's GitHub Top Languages" height="200px"/>
+  <img src="https://github-readme-stats-1-alpha.vercel.app/api/top-langs/?username=angelmtzr&layout=compact&theme=dracula&hide=shaderlab,glsl,hlsl,jupyter%20notebook&hide_border=true" align="left" alt="Angel's GitHub Top Languages" height="180px"/>
 </section>
 
