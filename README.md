@@ -2,7 +2,7 @@
 
 I'm a Computer Science student interested in software development, process optimization and business. I like to work in teams, learn from others, and help others, because I am certain that all of this will help me become not only a better person but also a better professional. In practice, I specially like builidng projects oriented to practical applications and/or business purposes. Learning new things fascinates me: I believe it's a powerful way of discovering new tools to solve daily problems.
 
-- 👨‍💻 I'm currently working on [Chat Rooms App](https://github.com/angelmtzr/chat-rooms-app)
+- 👨‍💻 I'm currently in ASP.NET apps Windows Server migrations.
 - 🐍 My favorite programming language is Python.
 - 💬 I speak Spanish, English, and a little bit of French.
 - 🎻 Fun fact: I have played the violin since I was 7.
