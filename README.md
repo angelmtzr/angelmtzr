@@ -2,7 +2,7 @@
 
 I'm a Computer Science student interested in software development, process optimization and business. I like to work in teams, learn from others, and help others, because I am certain that all of this will help me become not only a better person but also a better professional. In practice, I specially like builidng projects oriented to practical applications and/or business purposes. Learning new things fascinates me: I believe it's a powerful way of discovering new tools to solve daily problems.
 
-- 👨‍💻 I'm currently in ASP.NET apps Windows Server migrations.
+- 👨‍💻 IT Business Applications Developer at Continental AG.
 - 🐍 My favorite programming language is Python.
 - 💬 I speak Spanish, English, and a little bit of French.
 - 🎻 Fun fact: I have played the violin since I was 7.
@@ -10,7 +10,7 @@ I'm a Computer Science student interested in software development, process optim
 ## 🛠 Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,nodejs,express,postman,mongodb,vite,react,svelte,vue,heroku,docker,git,github,py,java,c,cpp,swift,unity,cs,idea,visualstudio,vscode,replit,androidstudio,kotlin,firebase,figma,latex,md&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,nodejs,express,postman,mongodb,firebase,vite,react,nextjs,svelte,vue,heroku,docker,git,github,py,java,maven,c,cpp,cs,dotnet,swift,unity,idea,visualstudio,vscode,replit,androidstudio,kotlin,powershell,figma,latex,md&theme=light" />
 </p>
 
 ## 📊 My GitHub Stats
