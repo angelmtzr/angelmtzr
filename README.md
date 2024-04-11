@@ -4,7 +4,7 @@ I'm a Computer Science student interested in software development, process optim
 
 - 👨‍💻 IT Business Applications Developer at Continental AG.
 - 🐍 My favorite programming language is Python.
-- 💬 I speak Spanish, English, and a little bit of French.
+- 💬 I speak Spanish, English, French, and a little German.
 - 🎻 Fun fact: I have played the violin since I was 7.
 
 ## 🛠 Tools
