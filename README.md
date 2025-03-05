@@ -2,9 +2,9 @@
 
 I'm a Computer Science student interested in software development, process optimization and business. I like to work in teams, learn from others, and help others, because I am certain that all of this will help me become not only a better person but also a better professional. In practice, I specially like builidng projects oriented to practical applications and/or business purposes. Learning new things fascinates me: I believe it's a powerful way of discovering new tools to solve daily problems.
 
-- 👨‍💻 IT Business Applications Developer at Continental AG.
-- 🐍 My favorite programming language is Python.
-- 💬 I speak Spanish, English, French, and a little German.
+- 👨‍💻 RPA Development Engineer at VALEO IT.
+- 🐍 My favorite programming languages are Python and C#.
+- 💬 I speak Spanish, English, German, and a little French.
 - 🎻 Fun fact: I have played the violin since I was 7.
 
 ## 🛠 Tools
